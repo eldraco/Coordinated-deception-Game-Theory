@@ -162,7 +162,7 @@ except ValueError:
 
 # Get the honeyport port
 honeypot_port = NewDefender.get_honeypot_ports(production_ports)
-print 'The honeypot port selecte for you is: {}'.format(honeypot_port)
+print 'The honeypot port selected for you is: {}'.format(honeypot_port)
 
 
 
