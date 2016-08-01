@@ -21,6 +21,8 @@
 # Description
 # Reads the ports.csv file and the port_attractivness.csv file and generates the utilities for the GM
 
+# Version: 0.1
+
 import math
 
 company_index = 10000

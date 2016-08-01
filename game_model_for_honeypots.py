@@ -21,6 +21,8 @@
 # Description
 # A program that reads the game-theoretic strategy to open honeypot ports and tell you which port to use as a honeypot based on your real production ports
 
+# Version: 0.1
+
 import sys
 import argparse
 import operator

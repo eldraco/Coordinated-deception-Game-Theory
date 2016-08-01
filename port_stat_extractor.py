@@ -22,6 +22,8 @@
 # Read the ports.txt file and generates an output with the probability distribution of each combination of ports
 # Usage: cat ports.txt | ./port_stat_extractor.py > ../ports-distribution.csv
 
+# Version: 0.1
+
 import sys
 import operator
 
